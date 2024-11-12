@@ -1,0 +1,68 @@
+<style type="text/css">
+				
+				h1 {
+					font-family: monaco, lucinda console, monospace;
+					font-size: 20pt;
+					color: darkslateblue;
+				}
+
+				h2 {
+					font-family: monaco, lucinda console, monospace;
+					font-size: 17pt;
+					color: darkslateblue;
+				}
+
+				h3 {
+					font-family: verdana, helvetica, sans-serif;
+					font-size: 14pt;
+					color: black;
+				}
+
+				p {
+					font-family: verdana, helvetica, sans-serif;
+					font-size: 13pt;
+					color: black;
+				}
+
+				ul {
+					font-family: verdana, helvetica, sans-serif;
+					font-size: 13pt;
+					color: black;
+					list-style-image: url('seashell.png');
+					margin: 0px;
+					padding: 0px;
+				}
+
+				a {
+					color: black;
+				}
+
+				/* unvisited link */
+				a:link {
+  						color: black;
+				}
+
+				/* visited link */
+				a:visited {
+  							color: black;
+				}
+
+				/* mouse over link */
+				a:hover {
+						color: deepskyblue;
+				}
+
+				/* selected link */
+				a:active {
+  							color: darkslateblue;
+  				}
+
+  				body {
+  					background-image: url("bikinibottom.png");
+  					background-repeat: no-repeat;
+  					background-attachment: fixed;
+  					background-size: cover;
+  				}
+
+
+			</style>/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
